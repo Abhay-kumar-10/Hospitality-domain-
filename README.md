@@ -11,3 +11,4 @@ Process includes
 3) Identifying & Creating Measures using DAX.
 4) Validating all data
 5) Creating Dashboard using appropriate Visualization.
+![image](https://github.com/user-attachments/assets/d8666079-4cb5-4349-b88c-89e403872a03)
